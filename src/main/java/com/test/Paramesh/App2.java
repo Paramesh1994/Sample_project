@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  * Hello world!
  *
  */
-public class App 
+public class App2 
 {
     public static void main( String[] args ) throws InterruptedException
     {
