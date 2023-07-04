@@ -18,6 +18,5 @@ public class App
     	
     	System.out.println( "Hello Paramesh reddy Welcome to New World!" );
     	System.out.println( "Hello World!" );
-    	System.out.println( "Hi Paramesh" );
     }
 }
